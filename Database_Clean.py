@@ -36,7 +36,7 @@ special_terms = [['amazon-ec2','amazon-ec2'], ['amazon-s3','amazon-s3'],
                  ['8086','8086'], ['h.264', 'h.264'],['flex4','flex'],
                  ['x509','x509'],['flex4.5','flex'],['z3','z3'],
                  ['opencv3.0','opencv'],['python-3.x','python'],
-                 ['opencv3.2','opencv']
+                 ['opencv3.2','opencv'],['tr2','tr']
                  ]
 
 #array to host rows that need to be updated:

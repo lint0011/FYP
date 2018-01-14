@@ -1,0 +1,103 @@
+Number of tagCategory found : 98, number of exception : 2
+Tags found in tagCategory:
+dns	system	The Domain Name System (DNS) is a hierarchical naming system built on a distributed database for computers, services, or any resource connected to the Internet or a private network.
+model-view-controller	pattern	Model–View–Controller (MVC) is an architectural pattern used in software engineering
+frameworks	library	A framework is an existing library or set of libraries that provides overarching application structure so that the developer can focus primarily on their application's implementation details instead
+@cocoa-touch	apps	The Cocoa Touch Frameworks that drive iOS apps share many proven patterns found on the Mac, but were built with a special focus on touch-based interfaces and optimization.
+tooltip	element	Tooltips are a GUI (Graphical User Interface) element which typically pops up when the mouse pointer is hovering over an item in the GUI and provides some contextual information or clarification.
+signals	event	A signal is a notification to a process that an event occurred
+build	process	The process of converting source code files into standalone software artifact(s) that can be run on a computer
+@binary	numbers	Binary, the base-2 numeral system, represents numbers using two symbols: 0 and 1
+smtp	standard	Simple Mail Transfer Protocol (SMTP) is an Internet standard for electronic mail (e-mail) transmission across Internet Protocol (IP) networks.
+expression	program	combination of several programming symbols and values intending to produce a result
+reflection	structure	Reflection is the ability of a program to observe and/or modify its structure and/or behavior at runtime.
+glassfish	server	GlassFish is the reference Java EE application server.
+styles	format	do not use this tag. this tag does not currently have a single, well-defined meaning. it is often used in place of, or in conjunction with, [css]. it is also used on questions about the appearance of user interfaces and questions about source code formatting.
+leaflet	library	Leaflet is an open-source JavaScript library for mobile-friendly, cross-browser, interactive maps.
+spring-mvc	applications	Based on the Model-View-Controller (MVC) pattern, Spring MVC helps you build web-based applications that are flexible and decoupled from the underlying view technologies.
+deep-learning	function	Deep Learning is an area of Machine Learning whose goal is to learn complicated functions that represent "deep architectures."
+arrays	structure	An array is an ordered data structure consisting of a collection of elements (values or variables), each identified by one (single dimensional array or vector) or multiple indexes
+pointers	dataType	Data type that "points to" another value stored in memory using its address.
+interface	interface	An interface refers to the point of interaction between components
+sencha-touch	library	Sencha Touch is a multi mobile device JavaScript library based on HTML5 and the Model, View, Controller pattern
+wix	toolset	The WiX Toolset (formerly known as Windows Installer XML) is a toolset that builds Windows installation packages and WiX bootstrappers from XML source code
+popup	application	In general, popup refers to any UI element that floats above a window or application surface
+ios	os	iOS is the mobile operating system running on the Apple iPhone, iPod touch, and iPad
+subprocess	module	The Python subprocess module allows you to spawn new processes, connect to their input/output/error pipes, and obtain their return codes
+label	elements	a label is a placeholder for text and other ui elements.
+stored-procedures	applications	A subroutine available to applications accessing a relational database system.
+ecmascript-6	standard	The 2015 version of the ECMAScript specification, now a standard (ECMAScript 2015)
+syntax	syntax	Syntax refers to the actual language elements and symbols themselves
+select	keyword	Select is a common keyword used to query data
+recursion	call	Recursion is a kind of function call in which a function calls itself
+d3.js	library	D3.js is a small, open-source JavaScript data visualization library for manipulating HTML, SVG, and CSS documents based on data.
+@google-api	products	google offers a variety of apis, mostly web apis for web developers. the apis are based on popular google consumer products, including google maps, google earth, adsense, adwords, google apps and youtube.
+task-parallel-library	library	the task parallel library is part of .net 4 and .net 4.5. it is a set of apis to enable developers to program asynchronous applications.
+redis	store	An open source BSD-licensed in-memory data structure store used as database, cache and message broker
+polymer	library	The Polymer library provides a set of features that make it easy and fast to make custom elements that work like standard DOM elements.
+@websphere	product	IBM WebSphere Application Server, a software application server, is the flagship product within IBM's WebSphere brand
+pthreads	api	Pthreads (POSIX Threads) is a standardised C-based API for creating and manipulating threads
+gps	system	Abbreviation for Global Positioning System; a navigational system using satellite signals to fix the location of a radio receiver on or above the earth's surface
+pipe	file	A Unix pipe connects file descriptors of two processes
+queue	structure	A queue is an ordered, first-in-first-out data structure
+cors	object	Cross-Origin Resource Sharing allows browsers' XMLHttpRequest object to make cross-origin requests
+install	program	Installation (or setup) of a program (including drivers, plugins, etc.) is the act of putting the program onto a computer system so that it can be executed.
+sqlalchemy	toolkit|mapper	SQLAlchemy is a Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
+amazon-ec2	vm	amazon ec2 stands for "amazon elastic compute cloud". it is a part of amazon web services (aws) and allows users to rent virtual machine instances by the hour. you can create instances, launch and manage them through a central interface, through a web api or through a console.
+winforms	library	WinForms is the informal name given to Windows Forms, a GUI class library in the Microsoft .NET Framework, which provides a user interface for programs designed to run on Windows machines.
+gmail	service	Gmail is a free email service offered by Google
+java	language	Java (not to be confused with JavaScript or JScript) is a general-purpose object-oriented programming language designed to be used in conjunction with the Java Virtual Machine (JVM)
+datetime	languages	A DateTime object in many programming languages describes a date and a time of day
+windows-installer	service	From the MSDN documentation:&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  Microsoft Windows Installer is an&#xD;&#xA;  installation and configuration service&#xD;&#xA;  provided with Windows
+cmd	command	Command Prompt (executable name cmd.exe) is the Microsoft supplied command line interpreter on OS/2, Windows CE, and all Windows operating systems (including Windows NT, Windows 2000, Windows XP, Vista, 7, 8, 10, Windows Server 2003, Server 2008, Server 2012, and Server 2016).
+openssl	toolkit	OpenSSL is an open source software toolkit that implements the SSL/TLS protocol, as well as a general cryptographic library.
+out-of-memory	error	An error or exception which is thrown when a program makes a request for memory that cannot be satisfied.
+debian	os	Debian is a universal operating system composed of over 29000 free and open-source software packages
+grid	package	this tag is ambiguous, please don't use it. for row-column layouts, use [grid-layout]. for the hpc setup, use [grid-computing]. for the r plotting package, use [r-grid]. for multi-dimensional data, use [matrix] or [array] or [raster]. for wpf-grid control, use [wpfgrid]
+@many-to-many	types	A type of relationship between entities of types A and B which associates a list of entities of type B to an entity of type A and vice versa
+timeout	term	The timeout term refers to a predefined period of time allowed to elapse before an event is to occur
+focus	interface	Focus indicates the component of the graphical user interface which is currently selected to receive input.
+html5-video	element	HTML5 video is an element introduced in the HTML5 draft specification for the purpose of creating a standards-compliant, plugin-free way for playing videos and movies, partially replacing the object element.
+callback	code	A callback is a piece of code that is passed as an argument to other code, which is expected to call back (execute) the argument at some convenient time.
+mysqli	driver	The mysqli PHP extension (“MySQL improved”) is a PHP database driver, included since PHP 5
+printf	function	`printf` is a common function for formatted output
+spring-security	solution	Spring Security is the Spring Framework's application security solution
+msbuild	platform	Microsoft Build Engine, also known as MSBuild, is a build platform for managed code and was part of .NET Framework.
+@pyspark	model	The Spark Python API (PySpark) exposes the apache-spark programming model to Python.
+parallel-processing	code	parallel processing is, in sharp contrast to just a concurrent processing, guaranteed to start / perform / finish all thread-level and/or instruction-level tasks executed in a parallel fashion and provides a guaranteed finish of the simultaneously executed code-paths.
+session	client	A session refers to all the requests that a single client makes to a server
+swift	language	Swift is a general-purpose, open-source programming language developed by Apple Inc
+permissions	databases	Permissions define the operations that authenticated users are allowed to perform on file systems, databases and other computer systems.
+jasper-reports	applications	JasperReports, an open source Java reporting tool, can be used in all Java applications from desktop to web applications
+raspberry-pi	device	The Raspberry Pi is a small, inexpensive ARM-based PC device
+transactions	operations	A set of interrelated operations that must all succeed in order for any of them to succeed
+@sinatra	applications	Sinatra is a Domain Specific Language (DSL) for quickly creating web applications in Ruby with minimal effort
+mongodb	database	MongoDB is a scalable, high-performance, open source, document-oriented NoSQL database
+flask	framework	flask is a web microframework for python based on "werkzeug, jinja 2 and good intentions". bsd-licensed.
+registry	database	The Windows Registry is a database where configuration settings for hardware, software and the Windows operating system itself are saved.
+mysql	dbms	MySQL is a free, open source Relational Database Management System (RDBMS) that uses Structured Query Language (SQL).
+tcp	protocol	Transmission Control Protocol (TCP) is a transport layer protocol that provides a connection-oriented data stream service with guaranteed, in-order delivery.
+uwp	platform	The Universal Windows Platform is a common platform for all devices running Windows 10
+plsql	extension	PL/SQL (Procedural Language/Structured Query Language) is Oracle Corporation's procedural language extension for SQL
+navigation	process	Navigation refers to the process of navigating a network of resources, and the user interface that is used to do so.
+google-apps-script	products	Use for questions about Google Apps Script, Google's JavaScript-based cloud scripting language for automating tasks across Google products and third party services.
+64bit	architecture	A 64-bit architecture is usually a system where addresses (pointers) are 64 bits wide
+c++-cli	code	C++/CLI is based on C++, modified to allow compilation of a mixture of native code and code for Microsoft's Common Language Infrastructure (CLI)
+uiimage	class	The basic image handling class of Cocoa-Touch on iOS
+full-text-search	fields	Full text search involves searching documents, usually involving unstructured text, as opposed to searching text fields in a structured database.
+ionic	framework	Cross-platform native mobile app development framework built with AngularJS for use in Cordova
+typescript	features	TypeScript is a typed superset of JavaScript created by Microsoft that adds optional types, classes, async/await, and many other features, and compiles to plain JavaScript
+backbone.js	framework	Backbone.js is a JavaScript framework with a RESTful JSON interface and is based on the model–view–presenter (MVP) application design paradigm
+append	app	to append is to join or add on to the end of something.
+spring	framework	The Spring Framework is an open source framework for application development on the Java platform
+resize	controls	Issues relating to the resizing of controls, windows, forms or screens.
+content-management-system	platform	A Content Management System (CMS) is a platform used to build websites that are easily edited by multiple users
+google-cloud-messaging	service	Google Cloud Messaging is a service to allow data to be sent remotely to Android and iOS applications and Chrome extensions and packaged apps.
+ubuntu	os	general ubuntu support is off-topic. support questions may be asked on https://askubuntu.com/. ubuntu is a free desktop and server operating system based on debian gnu/linux. note that this is for programming questions specific to ubuntu and http://askubuntu.com is dedicated to answering general ubuntu questions.
+webserver	application	A software application that services requests from clients using the Hypertext Transfer Protocol.
+character	number	Refers to a symbol that represents a letter or number
+bluetooth	standard	Bluetooth is a global open wireless technology standard for exchanging data over short distances (using short wavelength radio transmissions) from fixed and mobile devices, creating personal area networks (PANs) with high levels of security.
+javafx	platform	The JavaFX platform enables developers to create and deploy Rich Internet Applications (RIA) that behave consistently across multiple platforms and browsers
+Tags not found in tagCategory:
+tags
+split

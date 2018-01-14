@@ -1,0 +1,106 @@
+Number of svo : 74, number of svo_excepton : 26, number of exceptions : 0
+Ratio of svo among all: 0.74
+Ratio of svo_exception among all: 0.26
+Tags found in svo:
+powershell	command line |scripting utility 	PowerShell is a command line and scripting utility for use with Windows
+web-scraping	process 	The process of extracting specific information from websites
+iframe	HTML element 	An 'iframe' is an HTML element that creates an "inline frame" within a document, which allows displaying a separate document in the same page.
+underscore.js	library 	Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects
+jquery-mobile	web framework 	jQuery Mobile is a touch-optimized web framework for smartphones and tablets
+servlets	programs 	Servlets are programs that run on a Web or Application server and act as a middle layer between a request coming from a Web browser or other HTTP client and databases or applications on the HTTP server.
+webforms	ASPNET web framework 	Web Forms is a part of the ASP.NET web framework
+mocha	JavaScript test framework 	Mocha is a feature-rich JavaScript test framework running on Node.js and the browser.
+@substring	Part 	Part of a string, or the function/method that returns part of a string
+post	HTTP protocol methods 	POST is one of the HTTP protocol methods; it is used when the client needs to send data to the server, such as when uploading a file, or submitting a completed form.
+bitmap	 term pixmap	The more general term pixmap refers to a map of pixels, where each one may store more than two colors, thus using more than one bit per pixel
+signals	notification 	A signal is a notification to a process that an event occurred
+autocomplete	UI feature 	Autocomplete is a UI feature provided by applications, where the program predicts a word or phrase that the user wants to type without the user actually typing it completely.
+zend-framework	web application framework 	Zend Framework is an open source, object-oriented web application framework implemented in PHP 5 and licensed under the New BSD License
+phantomjs	WebKit 	PhantomJS is a headless (GUI-less) WebKit with a JavaScript API
+magento	e-commerce platform 	Magento is an e-commerce platform written in PHP atop the Zend framework, available under both open-source and commercial licenses.
+command	directive 	A command is a directive to a computer program acting as an interpreter of some kind, in order to perform a specific task
+google-spreadsheet	Questions 	Questions related to Google Sheets and interacting with Google Sheets programmatically.
+constructor	subroutine 	A special type of subroutine called at the creation of an object.
+@mod-rewrite	URL 	URL rewriting module for the Apache web server
+ip	questions 	This tag is for questions related to the Internet Protocol
+admob	advertising company 	AdMob is a mobile advertising company owned by Google
+playframework	Java |Scala web application open-source framework 	The Play! Framework is a modern Java and Scala web application open-source framework that provides a clean alternative to bloated Enterprise Java stacks.
+sprite-kit	framework 	SpriteKit is Apple's framework for creating 2D games for iOS 7+ and Mac OS X 10.9+
+grep	utility 	grep is a command-line text-search utility originally written for Unix
+@cmd	Microsoft 	Command Prompt (executable name cmd.exe) is the Microsoft supplied command line interpreter on OS/2, Windows CE, and all Windows operating systems (including Windows NT, Windows 2000, Windows XP, Vista, 7, 8, 10, Windows Server 2003, Server 2008, Server 2012, and Server 2016).
+testing	activity 	Software testing is any activity aimed at evaluating an attribute or capability of a program or system and determining that it meets its required results.
+wpf-controls	 WPF controls	WPF controls include UserControls, which are composite collections of other controls, and CustomControls, which are controls built with WPF styles and templates.
+neural-network	Network structure 	Network structure inspired by simplified models of biological neurons (brain cells)
+namespaces	container 	A namespace is a container that provides context for identifiers, within which names are unique.
+floating-point	approximations 	Floating point numbers are approximations of real numbers that can represent larger ranges than integers but use the same amount of memory, at the cost of lower precision
+@nlp	subfield 	Natural language processing (NLP) is a subfield of artificial intelligence that involves transforming or extracting useful information from natural language data
+task	abstraction 	A task is an abstraction that is used to work with concurrency, it can denote operation that should be executed concurrently with the rest of a program
+expression	Combination 	Combination of several programming symbols and values intending to produce a result
+clojure	Lisp dialect 	Clojure is a modern Lisp dialect for the Java Virtual Machine (with versions for the CLR and JavaScript)
+asp.net-mvc	web application framework |tooling 	The ASP.NET MVC Framework is an open source web application framework and tooling that implements a version of the model-view-controller (MVC) pattern tailored towards web applications and built upon an ASP.NET technology foundation.
+debian	operating system 	Debian is a universal operating system composed of over 29000 free and open-source software packages
+jsp	 Java Servlet technology JSP	Based on Java Servlet technology, JSP (JavaServer Pages) allows the platform-independent development of dynamic web applications.
+insert	action 	Insert is an action to add information to a larger container that the information should reside within
+dplyr	R package 	An R package for data manipulation using the Split-Apply-Combine Methodology, the next iteration of the very popular plyr package, written by Hadley Wickham.
+count	 Count	Count refers to the number of objects in a collection
+jtable	Java Swing component 	JTable is a Java Swing component used to display and edit regular two-dimensional tables of cells.
+if-statement	structure 	An "if" statement is a control structure in many programming languages that changes the execution flow depending on a condition.
+apache-spark	cluster computing system 	Apache Spark is an open source cluster computing system for large-scale in-memory data analytics computing.
+windows-runtime	Microsoft platform architecture 	Windows Runtime (WinRT) is a Microsoft platform architecture that allows applications to run in a sandboxed environment exposing a 'Windows Modern Style' UI/UX
+group-by	command 	GROUP BY is a command in the SQL relational database standard for collapsing a group of rows that share common field value(s) into a single row
+wordpress	content management system 	WordPress is an open source content management system running on PHP and MySQL (or MariaDB), and often used as a blog engine
+charts	representation 	Charts are a graphical representation of data, most often in the format of a graph or diagram
+struts	solution 	The Apache Struts web framework is a free open-source solution for creating Java web applications.
+oop	programming paradigm 	Object-oriented programming is a programming paradigm using "objects": data structures consisting of data fields and methods together with their interactions.
+nsmutablearray	 NSMutableArray	NSMutableArray represents a modifiable (mutable) array object for Cocoa and Cocoa Touch
+xna	framework 	XNA is a cross-platform framework originally from Microsoft that facilitates game development with .NET
+size	Size 	Size in computing can refer to various dimensions: size in bits, in bytes, in pixels, in memory, in disk space, etc
+odbc	 Open Database Connectivity	Open Database Connectivity (ODBC) provides a standard software interface for accessing database management systems (DBMS).
+requirejs	JavaScript file |module loader 	RequireJS is a JavaScript file and module loader
+jquery-validate	jQuery plugin 	The jQuery Validate plugin is a jQuery plugin by Jörn Zaefferer
+scala	purpose programming language 	Scala is a general purpose programming language principally targeting the Java Virtual Machine
+stream	series 	A stream is a series of data elements which can be accessed in a serial fashion
+@function	portion 	A function (also called a procedure, method, subroutine, or routine) is a portion of code intended to carry out a single, specific task
+oauth	specification 	OAuth (Open Authorization) is a specification for client applications to access protected resources on behalf of a user
+qt	application development framework 	Qt is a cross-platform application development framework widely used for the development of application software that can be run on various software and hardware platforms with little or no change in the underlying codebase, while having the power and speed of native applications
+nunit	unit testing framework 	NUnit is an open source unit testing framework for .NET and Silverlight written in C#
+concurrency	property 	In computer science, concurrency is a property of systems in which multiple computations can be performed in overlapping time periods
+woocommerce	eCommerce plugin 	WooCommerce is an open source eCommerce plugin available for WordPress
+facebook-graph-api	API 	Facebook Graph API is a structured API for fetching objects and the connections between them from Facebook's social graph
+firebase	development platform 	Firebase is a unified mobile development platform from Google
+garbage-collection	memory management 	Garbage collection (GC) is a form of automatic memory management which attempts to reclaim garbage, or memory occupied by objects that are no longer in use by the program.
+@google-cloud-datastore	scalable 	Google Cloud Datastore is a scalable, fully-managed NoSQL document database for web and mobile applications
+@vue.js	open-source 	Vue.js is an open-source, progressive Javascript framework for building user interfaces that aims to be incrementally adoptable
+foreach	construct 	foreach is a looping construct that executes a given piece of code for each element in a list/collection/array
+.net	software framework 	The .NET framework is a software framework designed mainly for the Microsoft Windows operating system
+wpf	 Windows Presentation Foundation	Windows Presentation Foundation (WPF) provides developers with a unified programming model for building modern line-of-business desktop applications on Windows.
+imagemagick	software suite 	ImageMagick is an open source software suite for displaying, converting and editing raster image files.
+service	executable 	A Service is a long-running executable that performs specific functions and which is designed not to require user intervention.
+Tags found in svo_exception:
+couchdb	Apache CouchDB is a document-oriented database that can be queried and indexed in a MapReduce fashion
+binary	Binary, the base-2 numeral system, represents numbers using two symbols: 0 and 1
+image-processing	Anything related to digital image processing, i.e
+spring-boot	Spring Boot makes it easy to create Spring-powered, production-grade applications and services with absolute minimum fuss
+objective-c	This tag should be used only on questions that are about Objective-C features or depend on code in the language
+header	This tag is deprecated because it lacks discriminating power
+tomcat	Use this tag for questions about Apache Tomcat (or simply Tomcat, formerly also Jakarta Tomcat) which is an open source Servlet Container developed by the Apache Software Foundation (ASF)
+repository	Can refer to the data store of a version control system containing the whole history of a project, or to an object that transfers data between the business layer of an application and its data store.
+gdb	Use this tag for problems related to or involving GDB, the standard debugger for the GNU software system.
+uiviewcontroller	The UIViewController class manages the views in iOS apps and mediates the interaction between an app's views, its underlying model objects, and the overall workflow.
+forms	A form is essentially a container that can be used to hold any amount of any subset of several types of data
+uml	Unified Modeling Language, an object modeling and specification language used in software engineering.
+jquery-animate	Refers to jQuery's animate() method
+notifications	A notification informs users of events that are unrelated to the current user activity.
+vb6	Visual Basic 6.0 (VB6) was the final COM-based version of the VB programming language and IDE, last updated in 2004
+passwords	Passwords are primarily used as a way of accessing information and also limiting the number of users who can get access to a machine
+dependency-injection	A design pattern to reduce coupling between components, by dynamically injecting into a software component dependencies that it needs to function.
+xml-parsing	An XML parser goes through text documents containing XML trees and allows the information in the hierarchy to be used
+themes	Themes and theming can be used to give another look and feel to existing UI and has a close relation to templating.
+runtime-error	A runtime error is detected after or during the execution of a program.
+assembly	Assembly language (asm) programming questions
+conditional	Conditional has various meanings for various languages and probably should be avoided as a tag.
+sails.js	Sails makes it easy to build custom, enterprise-grade Node.js apps
+flash	For questions on Adobe's cross-platform multimedia runtime used to embed animations, video, and interactive applications into web pages
+async-await	This covers the asynchronous programming model supported by various programming languages, using the async and await keywords.
+extjs	Sencha ExtJS is a JavaScript framework for building Rich Internet Applications (RIAs).
+Tags not found in both files are: 

@@ -1,0 +1,19 @@
+svo_test_result__v3r1.txt:
+20	@cmd	Microsoft:intepreter 	Command Prompt (executable name cmd.exe) is the Microsoft supplied command line interpreter on OS/2, Windows CE, and all Windows operating systems (including Windows NT, Windows 2000, Windows XP, Vista, 7, 8, 10, Windows Server 2003, Server 2008, Server 2012, and Server 2016).
+45	@sinatra	Domain:language 	Sinatra is a Domain Specific Language (DSL) for quickly creating web applications in Ruby with minimal effort
+64	@plsql	Oracle Corporation's:language 	PL/SQL (Procedural Language/Structured Query Language) is Oracle Corporation's procedural language extension for SQL
+76	@angular	Questions:framework 	Questions about Angular 2+, the web framework from Google
+svo_test_result__v3r2.txt:
+12	@substring	Part:string 	Part of a string, or the function/method that returns part of a string
+23	@mod-rewrite	URL:module 	URL rewriting module for the Apache web server
+29	@cmd	Microsoft:interpreter 	Command Prompt (executable name cmd.exe) is the Microsoft supplied command line interpreter on OS/2, Windows CE, and all Windows operating systems (including Windows NT, Windows 2000, Windows XP, Vista, 7, 8, 10, Windows Server 2003, Server 2008, Server 2012, and Server 2016).
+71	@google-cloud-datastore	scalable:database 	Google Cloud Datastore is a scalable, fully-managed NoSQL document database for web and mobile applications
+72	@vue.js	open-source:framework 	Vue.js is an open-source, progressive Javascript framework for building user interfaces that aims to be incrementally adoptable
+svo_test_result__v3r3.txt:
+6	@android-webview	Part:api 	Part of the Android API
+10	@sbt	open-source:tool 	sbt is an open source build tool for Scala and Java projects, similar to Java's Maven or Ant.
+17	@cmd	Microsoft:interpreter 	Command Prompt (executable name cmd.exe) is the Microsoft supplied command line interpreter on OS/2, Windows CE, and all Windows operating systems (including Windows NT, Windows 2000, Windows XP, Vista, 7, 8, 10, Windows Server 2003, Server 2008, Server 2012, and Server 2016).
+
+13 wrong match out of 300 samples, accuracy rate : 95.6%
+FORMAT:
+line-number-in-file	@tag-name	wrong-category(the resulted one):right category	tagwiki-of-tag

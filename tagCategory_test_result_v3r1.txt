@@ -1,0 +1,103 @@
+﻿Number of tagCategory found : 96, number of exception : 4
+Tags found in tagCategory:
+networking	program	for most programming questions use [network-programming] tag. non-programming networking questions are off topic and should be asked on network engineering, super user or server fault instead.  this tag is only appropriate for questions concerning unique networking needs in support of software development.
+android-asynctask	framework	asynctask enables proper and easy use of the ui thread. this class allows to perform background operations and publish results on the ui thread without having to manipulate threads and/or handlers. asynctask is designed to be a helper class around thread and handler and does not constitute a generic threading framework.  asynctasks should ideally be used for short operations (a few seconds at the most.)
+interop	system	Interoperability is a requirement for one computer system or programming language to work with another.
+components	component	A component in the Unified Modeling Language "represents a modular part of a system, that encapsulates its content and whose manifestation is replaceable within its environment
+g++	collection	g++ is the c++ frontend to the gnu compiler collection (gcc).
+spring-security	solution	Spring Security is the Spring Framework's application security solution
+process	os	This tag is about operating system processes
+r	language	R is a free, open-source programming language and software environment for statistical computing, bioinformatics, and graphics
+@jquery-selectors	elements	Selectors can be used in jQuery to match a set of elements in a document
+hbase	database	HBase is the Hadoop database (columnar)
+cakephp	framework	CakePHP is an open-source web, rapid development framework for PHP that provides an extensible architecture for developing, maintaining, and deploying applications
+int	dataType	A data type that represents an integer
+integer	number	An integer is a whole number that can be negative, positive, or zero
+@media-queries	features	Media queries enable the conditional application of CSS styles based on media types, such as screen and print, and the conditions of media features, such as viewport and device height and width
+notepad++	editor	Notepad++ is a free and open source text editor for Windows
+terminal	interface	A terminal or command-line interface is a text-only interface for interacting with an operating system or a piece of software
+autocomplete	feature	Autocomplete is a UI feature provided by applications, where the program predicts a word or phrase that the user wants to type without the user actually typing it completely.
+joomla	system	Joomla! is a free and open source Content Management System (CMS) for publishing content on the World Wide Web and intranets and a model–view–controller (MVC) Web application framework that can also be used independently
+vb6	language	Visual Basic 6.0 (VB6) was the final COM-based version of the VB programming language and IDE, last updated in 2004
+tensorflow	library	TensorFlow is an open source library for machine learning and machine intelligence
+localization	process	Localization is the process of adapting a product or service to a particular language, culture, and desired local "look-and-feel
+ruby	language	Ruby is a multi-platform open-source, dynamic object-oriented interpreted language, created by Yukihiro Matsumoto (Matz) in 1995
+google-play	apps	Google Play is an integrated destination for apps, books, movies, Games, and music, accessible to users on Android devices and to anyone on the Web.
+documentation	functionality	Documentation is information on aspects of software or hardware, including its intended purpose, functionality, and maintenance
+get	methods	GET is one of many request methods supported by the HTTP protocol
+coldfusion	platform	ColdFusion is a server-side rapid application development platform, implementing the dynamic general purpose CFML programming language
+odata	protocol	The Open Data Protocol (OData) is a standardized protocol for building REST APIs
+callback	code	A callback is a piece of code that is passed as an argument to other code, which is expected to call back (execute) the argument at some convenient time.
+merge	term	Merging is a generic term for combining two or more related sets of data
+jsf	framework	JavaServer Faces (JSF) is a model-view-presenter framework typically used to create HTML form based web applications
+replace	action	Replacing is the action of searching a string for a sub-string and replacing it with a different string.
+ip	property	this tag is for questions related to the internet protocol. you may want to use the tag [ip-address] instead of or in conjunction with this tag. for questions about intellectual property, use [intellectual-property] instead.
+linux	os	GNU is a free and open-source operating system that frequently employs the free and open-source Linux kernel and API's
+jpanel	container	JPanel is a container in the Java Swing Framework that allows custom rendering using layout managers
+machine-learning	questions	Implementation questions about machine learning algorithms
+django-models	model	The centerpiece of the Django object-relational mapping scheme is the Model.
+unity3d	engine	Unity is a cross-platform game engine with a built-in IDE developed by Unity Technologies
+@android-gradle	standard	The Android Gradle Plugin is Android's standard build system
+save	store	To store (data) in a computer or on a storage device.
+apache-kafka	platform	Apache Kafka is a distributed streaming platform designed to store and process high-throughput data streams.
+sitecore	system	Sitecore is a web content management (WCM) and customer experience management system built on Microsoft ASP.NET
+notifications	events	A notification informs users of events that are unrelated to the current user activity.
+plugins	software	A plug-in (or plugin) is a set of software components that adds specific abilities to a larger software application
+uitextfield	control	A UITextField object is a control that displays editable text and sends an action message to a target object when the user presses the return button
+@google-visualization	application	the google visualization api allows svg, flash, and image charts and dashboards to be created based on data from a variety of sources. the charts/dashboards can be interactive, updated automatically, and included on web pages and web applications.
+android-edittext	widget	The EditText is the standard text entry widget in Android apps
+insert	action	Insert is an action to add information to a larger container that the information should reside within
+localhost	standard	In computer networking, localhost (meaning this computer) is the standard hostname given to the address of the loopback network interface.
+service	function	A Service is a long-running executable that performs specific functions and which is designed not to require user intervention.
+haskell	language	Haskell is a functional programming language featuring strong static typing, lazy evaluation, extensive parallelism and concurrency support, and unique abstraction capabilities.
+compression	number	The name given to the process of encoding data such that it uses lesser number of bits as compared to the original representation.
+eclipse-plugin	platform	Eclipse is an OSGi extensible platform for tool integration
+fullcalendar	plugin	Fullcalendar is a jQuery plugin developed by Adam Shaw that loads events by AJAX (as well as other methods) and presents them in a calendar/agenda display.
+binary	numbers	Binary, the base-2 numeral system, represents numbers using two symbols: 0 and 1
+swt	library	SWT: The Standard Widget Toolkit is a user interface library for Java maintained by the Eclipse Foundation
+command-line	files	A command line is a string given to a command interpreter that tells it actions to take, such as running programs or copying files
+relational-database	database	A relational database is a database consisting of relation variables (which are also called *relvars*, *R-tables* or just *tables*)
+c++	language	C++ is a general-purpose programming language
+floating-point	point	Floating point numbers are approximations of real numbers that can represent larger ranges than integers but use the same amount of memory, at the cost of lower precision
+x86	architecture	x86 is an architecture derived from the Intel 8086 CPU
+timeout	term	The timeout term refers to a predefined period of time allowed to elapse before an event is to occur
+excel	objects	Only for questions on programming against Excel objects or files, or complex formula development
+asp.net-web-api	framework	ASP.NET Web API is a framework for building HTTP services for clients like browsers and mobile devices
+@docker	servers	Docker provides a high-level API to containerize processes and applications with some degree of isolation and repeatability across servers
+events	event	An event is a way for a class to provide notifications to listeners when a particular thing happens.
+redirect	agent	A response by a webserver, that asks the user agent to not show the response body, but instead request a different resource.
+range	value	a range is an extent of values between its lower and upper bound. it can refer to a dom range, the ruby range class, the python range function or postgresql's range types.
+tcp	protocol	Transmission Control Protocol (TCP) is a transport layer protocol that provides a connection-oriented data stream service with guaranteed, in-order delivery.
+hash	function	A hash function is any well-defined procedure or mathematical function that converts a large amount of data into a small datum, usually a single integer
+cloud	services	Cloud computing is about hardware-based services involving computing, network and storage capacities
+java	language	Java (not to be confused with JavaScript or JScript) is a general-purpose object-oriented programming language designed to be used in conjunction with the Java Virtual Machine (JVM)
+concurrency	property	In computer science, concurrency is a property of systems in which multiple computations can be performed in overlapping time periods
+parsing	elements	Parsing refers to breaking an artifact into its constituent elements and capturing the relationship between those elements
+@google-cloud-datastore	applications	Google Cloud Datastore is a scalable, fully-managed NoSQL document database for web and mobile applications
+uiimage	class	The basic image handling class of Cocoa-Touch on iOS
+random	generators	This tag is for questions pertaining to random numbers and their generators, whether pseudo-random or truly random.
+ef-code-first	class	EF Code-First is a way of using Microsoft's Entity Framework with POCO classes, as opposed to model-first or DB-first.
+serial-port	interface	A serial port is a physical interface through which data is transferred (uni- or bidirectionally) one bit at a time
+@firebase-database	apps	Firebase Realtime Database is a cloud hosted, NoSQL, JSON database that enables developers to create powerful apps
+scipy	library	SciPy is an open source library of algorithms and mathematical tools for the Python programming language.
+datatable	term	The term "datatable" is ambiguous
+bitmap	pixmap	The more general term pixmap refers to a map of pixels, where each one may store more than two colors, thus using more than one bit per pixel
+android	os	Android is Google's mobile operating system, used for programming or developing digital devices (Smartphones, Tablets, Automobiles, TVs, Wear, Glass, IoT)
+filter	program	A program or routine that blocks access to data that meet a particular criterion
+apache-pig	platform	Apache Pig is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs
+apple-push-notifications	service	The Apple Push Notification Service is a service created by Apple Inc
+weblogic	server	WebLogic Server is a Java EE application server from Oracle
+data-binding	technique	A general technique that binds two data/information sources together and maintains them in sync.
+select	keyword	Select is a common keyword used to query data
+lua	language	Lua is a powerful, fast, lightweight, embeddable scripting language
+unit-testing	method	Unit testing is a method by which individual units of source code are tested to determine if they are fit for use
+file-upload	method	a method or action of transferring a file from a client to a server.
+checkbox	element	A checkbox is a graphical user interface element that permits the user to make a binary selection.
+package	package	package broadly refers to two things: 1) a usable unit/component of built/compiled of software, or 2) a partition of the global namespace (java).
+3d	representation	3D computer graphics are graphics that use a three-dimensional representation of geometric data stored in the computer for the purposes of performing calculations and rendering 2D images.
+dom	languages	Use this tag on questions regarding the interaction of other languages with XML/HTML via the document object model
+Tags not found in tagCategory:
+left-join
+find
+clojure
+char

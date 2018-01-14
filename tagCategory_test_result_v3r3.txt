@@ -1,0 +1,103 @@
+Number of tagCategory found : 96, number of exception : 4
+Tags found in tagCategory:
+dataset	collection	A dataset is a collection of data, generally represented in tabular form, with columns signifying different variables and rows signify different members of the set.
+solr	server	Apache Solr is an open source search server based on the Lucene Java search library.
+@asp.net-core-mvc	apps	this version of mvc (formerly known as asp.net mvc 6 or just mvc 6) has been re-designed from the ground up. the asp.net core mvc framework unifies mvc, web api, and web pages. using asp.net core the goal is to create a lean and composable .net stack for building modern cloud-based apps.
+decimal	system	Decimal is the name for our common base-ten numeral system
+composer-php	tool	Composer is a tool for dependency management in PHP
+python-requests	library	Requests is a full-featured Python HTTP library with an easy-to-use, logical API.
+pdf-generation	process	PDF generation is the process of creating a PDF document using various tools or libraries.
+templates	templates	The templates tag is used in multiple contexts: generic programming (especially C++), and data/document generation using template engines
+@floating-point	point	Floating point numbers are approximations of real numbers that can represent larger ranges than integers but use the same amount of memory, at the cost of lower precision
+permissions	databases	Permissions define the operations that authenticated users are allowed to perform on file systems, databases and other computer systems.
+phpunit	framework	PHPUnit is a programmer-oriented testing framework for PHP
+task	program	A task is an abstraction that is used to work with concurrency, it can denote operation that should be executed concurrently with the rest of a program
+methods	code	A method (often called function, routine or procedure) is code that performs a task and is associated with a class or an object.
+scheme	language	Scheme is a functional programming language in the Lisp family, closely modelled on lambda calculus with eager (applicative-order) evaluation
+typescript	features	TypeScript is a typed superset of JavaScript created by Microsoft that adds optional types, classes, async/await, and many other features, and compiles to plain JavaScript
+applet	application	applet means 'small application'. this has become commonly used to describe java applets embedded in web pages. and in that context, applets can be regarded as outdated technology.
+focus	interface	Focus indicates the component of the graphical user interface which is currently selected to receive input.
+mod-rewrite	module	URL rewriting module for the Apache web server
+flask	framework	flask is a web microframework for python based on "werkzeug, jinja 2 and good intentions". bsd-licensed.
+@modal-dialog	format	refers to a graphical dialog used to display important information to the user. these dialogs appear above all other content, blocking application flow until user input is received.
+localization	process	Localization is the process of adapting a product or service to a particular language, culture, and desired local "look-and-feel
+ldap	protocol	Lightweight Directory Access Protocol (LDAP), is an application protocol for accessing and maintaining distributed directory information services over an IP network.
+attributes	attributes	The attributes tag should be used for any issues relating to a property of an object, element, or file, etc.
+pyqt	binding	PyQt is a set of Python bindings for Digia's Qt application framework and runs on all platforms supported by Qt including Windows, MacOS/X and Linux.
+escaping	process	Escaping is the process of applying an alternate meaning to a character or set of characters.
+wxpython	wrapper	wxPython is a Python wrapper for the cross-platform C++ GUI API wxWidgets.
+@maven	project	Apache Maven is a build automation and project management tool used primarily for Java projects
+import	process	Refers generally to the process of moving data from an external source into one's platform, program, or data set.
+imageview	widget	Android widget that displays an arbitrary image or drawable, such as an icon.
+reactjs	library	React is a JavaScript library for building user interfaces
+scripting	module	scripting is a form of programming generally characterized by low formality, loose typing, and no requirement for explicit compilation. there are numerous scripting languages, and these are used in a wide variety of scenarios - command-line applications, guis, server-side applications, extension modules.
+android	os	Android is Google's mobile operating system, used for programming or developing digital devices (Smartphones, Tablets, Automobiles, TVs, Wear, Glass, IoT)
+constructor	object	a special type of subroutine called at the creation of an object.
+fortran	language	Fortran is a general-purpose, procedural, imperative programming language that is especially suited for numeric computation and scientific computing
+ionic	framework	Cross-platform native mobile app development framework built with AngularJS for use in Cordova
+while-loop	structure	A while loop is a control structure used in many programming languages to loop over a set of instructions as long as a particular condition is met.
+django-views	views	Django views are MVC views; they control rendering (typically through templates), and the data displayed.
+datepicker	element	A datepicker is a user interface element in many frameworks that allows a user to choose a date and also, in some cases, time, often through a visual calendar.
+@android-asynctask	framework	asynctask enables proper and easy use of the ui thread. this class allows to perform background operations and publish results on the ui thread without having to manipulate threads and/or handlers. asynctask is designed to be a helper class around thread and handler and does not constitute a generic threading framework.  asynctasks should ideally be used for short operations (a few seconds at the most.)
+ember.js	framework	Ember.js is an MVC application framework written in JavaScript
+android-service	component	A Service is an application component representing either an application's desire to perform a longer-running operation while not interacting with the user or to supply functionality for other applications to use.
+localhost	standard	In computer networking, localhost (meaning this computer) is the standard hostname given to the address of the loopback network interface.
+design-patterns	solution	A design pattern is a general reusable solution to a commonly occurring problem in software design
+drawing	device	Issues around forms and graphics being drawn onto a computer screen, windowing system or device
+magento	platform	Magento is an e-commerce platform written in PHP atop the Zend framework, available under both open-source and commercial licenses.
+ckeditor	editor	CKEditor is a JavaScript based WYSIWYG editor created for use within web pages
+expression	program	combination of several programming symbols and values intending to produce a result
+gridview	control	A Gridview is a control for displaying and manipulating data from a variety of data sources.
+jackson	library	Jackson is a Java library for handling tasks like reading and writing (parsing / generating) and data binding to/from Java objects
+xna	framework	XNA is a cross-platform framework originally from Microsoft that facilitates game development with .NET
+google-apps-script	products	Use for questions about Google Apps Script, Google's JavaScript-based cloud scripting language for automating tasks across Google products and third party services.
+environment-variables	value	environment variables are a set of dynamic named values that can affect the way running processes will behave on a computer.
+ruby	language	Ruby is a multi-platform open-source, dynamic object-oriented interpreted language, created by Yukihiro Matsumoto (Matz) in 1995
+java	language	Java (not to be confused with JavaScript or JScript) is a general-purpose object-oriented programming language designed to be used in conjunction with the Java Virtual Machine (JVM)
+install	program	Installation (or setup) of a program (including drivers, plugins, etc.) is the act of putting the program onto a computer system so that it can be executed.
+soap	specification	Simple Object Access Protocol (SOAP) is a protocol specification for exchanging structured information in the implementation of Web Services.
+windows	os	general windows support is off-topic. support questions may be asked on https://superuser.com windows is an operating system developed by microsoft. use this tag only if your question relates to using windows apis or windows-specific behavior related to your code.
+android-camera	framework	The Android framework includes support for various cameras and camera features available on devices, allowing you to capture pictures and videos in your applications.
+view	database	This tag is for questions about database view or UI / architectural view
+polymer	library	The Polymer library provides a set of features that make it easy and fast to make custom elements that work like standard DOM elements.
+coding-style	code	do not use! this tag refers to an entirely opinionated subject and is therefore no longer on-topic. &#xd;&#xa;&#xd;&#xa;code style includes refactoring, braces, indentation, hungarian notation, and other stylistic issues relating to code.
+client-server	model	The client-server model is a centralized model, in which a server performs a specialized service (such as HTTP, SMTP, etc.) for multiple clients on request.
+operators	languages	Operators are symbols that occur in nearly all programming and coding languages, for performing calculations and comparisons on data.
+shiny	package	Shiny is an R package that makes it easy to build interactive web applications using only R
+security	software	Topics relating to application security and attacks against software
+web-crawler	program	A Web crawler (also known as Web spider) is a computer program that browses the World Wide Web in a methodical, automated manner or in an orderly fashion
+mfc	framework	The Microsoft Foundation Class Library (MFC) is a C++ framework for Windows GUI programming.
+safari	browser	Safari is Apple's web browser, the default browser on Mac OS X and iOS.
+vagrant	tool	Vagrant is a command line tool for provisioning virtualized environments on top of various providers, including VirtualBox, VMWare and AWS.
+syntax	syntax	Syntax refers to the actual language elements and symbols themselves
+@ejb	applications	Enterprise JavaBeans (EJB) is a managed, server-side component architecture for modular construction of enterprise applications
+spring-boot	applications	Spring Boot makes it easy to create Spring-powered, production-grade applications and services with absolute minimum fuss
+xampp	distribution	XAMPP is a cross-platform Apache distribution bundled with MySQL, PHP and Perl.
+windows-installer	service	From the MSDN documentation:&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  Microsoft Windows Installer is an&#xD;&#xA;  installation and configuration service&#xD;&#xA;  provided with Windows
+webserver	application	A software application that services requests from clients using the Hypertext Transfer Protocol.
+openssl	toolkit	OpenSSL is an open source software toolkit that implements the SSL/TLS protocol, as well as a general cryptographic library.
+arguments	value	An argument is a value passed to a function, procedure, or command line program
+awk	language	AWK is an interpreted programming language designed for text processing and typically used as a data extraction and reporting tool
+android-layout	structure	A layout defines the visual structure for a user interface, such as the UI for an activity, fragment or app widget.
+terminal	interface	A terminal or command-line interface is a text-only interface for interacting with an operating system or a piece of software
+@google-maps-api-3	functionality	Google Maps JavaScript API Version 3 lets you embed the functionality of Google Maps into your own website
+imagemagick	suite	ImageMagick is an open source software suite for displaying, converting and editing raster image files.
+apache-spark	system	Apache Spark is an open source cluster computing system for large-scale in-memory data analytics computing.
+client	application	A client is an application or system that accesses a service made available by a server.
+linux	os	GNU is a free and open-source operating system that frequently employs the free and open-source Linux kernel and API's
+@nginx	engine	Nginx ("engine x") is a lightweight, high-performance HTTP server, reverse proxy, TCP stream proxy and mail proxy, released under a BSD-like license.
+queue	structure	A queue is an ordered, first-in-first-out data structure
+jsp	jsp	Based on Java Servlet technology, JSP (JavaServer Pages) allows the platform-independent development of dynamic web applications.
+google-play-services	app	With Google Play services, your Android app can take advantage of the latest, Google-powered features such as Maps, Google+, and more, with automatic platform updates distributed as an APK through the Google Play store
+callback	code	A callback is a piece of code that is passed as an argument to other code, which is expected to call back (execute) the argument at some convenient time.
+wcf	framework	Windows Communication Foundation is a part of the .NET Framework that provides a unified programming model for rapidly building service-oriented applications.
+build	process	The process of converting source code files into standalone software artifact(s) that can be run on a computer
+arraylist	implementation	Resizable-array implementation of the List interface in Java.
+datatable	term	The term "datatable" is ambiguous
+extjs	framework	Sencha ExtJS is a JavaScript framework for building Rich Internet Applications (RIAs).
+spring-mvc	applications	Based on the Model-View-Controller (MVC) pattern, Spring MVC helps you build web-based applications that are flexible and decoupled from the underlying view technologies.
+Tags not found in tagCategory:
+mercurial
+.net
+graphics
+certificate

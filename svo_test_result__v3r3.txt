@@ -1,0 +1,106 @@
+Number of svo : 77, number of svo_excepton : 23, number of exceptions : 0
+Ratio of svo among all: 0.77
+Ratio of svo_exception among all: 0.23
+Tags found in svo:
+wxpython	Python wrapper 	wxPython is a Python wrapper for the cross-platform C++ GUI API wxWidgets.
+locking	 Locking	Locking allows different types of resources to be used exclusively by one process at a time.
+@android-webview	Part 	Part of the Android API
+razor	template language 	Razor is a template language used by ASP.NET Web Pages and ASP.NET MVC (since version 3)
+pdf-generation	process 	PDF generation is the process of creating a PDF document using various tools or libraries.
+odata	protocol 	The Open Data Protocol (OData) is a standardized protocol for building REST APIs
+@sbt	open-source 	sbt is an open source build tool for Scala and Java projects, similar to Java's Maven or Ant.
+hyperlink	reference 	A hyperlink is a reference to a document (or a section) that can be followed for retrieval using a navigation system that allows selecting emphasized content within an originating document.
+pagination	process 	Pagination is the process of dividing information into discrete pages.
+apache-camel	integration framework 	Apache Camel is a powerful open source integration framework based on known Enterprise Integration Patterns with powerful Bean Integration
+android-actionbar	Android's window feature 	The ActionBar is Android's window feature that identifies the application and user location, and provides user actions and navigation modes.
+tags	marker 	A tag is a marker or semantic descriptor
+cocos2d-iphone	Objective-C version 	Objective-C version for iOS & OS X of Cocos2d
+@cmd	Microsoft 	Command Prompt (executable name cmd.exe) is the Microsoft supplied command line interpreter on OS/2, Windows CE, and all Windows operating systems (including Windows NT, Windows 2000, Windows XP, Vista, 7, 8, 10, Windows Server 2003, Server 2008, Server 2012, and Server 2016).
+handlebars.js	library 	Handlebars is a templating library for JavaScript.
+crystal-reports	report writer 	Crystal Reports is a report writer that operates as a stand-alone report designer, an integrated part of Visual Studio, or part of SAP's Business Objects Enterprise suite
+app-store	distribution store 	The App Store is Apple's online digital distribution store for applications
+selenium	open-source tool 	Selenium is a popular open-source tool for automating web browsers
+subquery	SQL terminology 	"subquery" is vague SQL terminology, used to describe when there's either more than one `SELECT` statement in a query, or when used in Data Manipulation Language (DML) statements (IE: DELETE, UPDATE, INSERT, MERGE)
+range	extent 	A range is an extent of values between its lower and upper bound
+google-play	destination 	Google Play is an integrated destination for apps, books, movies, Games, and music, accessible to users on Android devices and to anyone on the Web.
+fullcalendar	jQuery plugin 	Fullcalendar is a jQuery plugin developed by Adam Shaw that loads events by AJAX (as well as other methods) and presents them in a calendar/agenda display.
+bash	default shell 	Bash, also known as Bourne-again shell and written by Brian Fox, is the default shell in many Linux distributions and on macOS
+foreign-keys	column 	A foreign key is a column or combination of columns in a relational table that matches a candidate key of another table
+uiimage	image handling class 	The basic image handling class of Cocoa-Touch on iOS
+oracle	Database Management System 	Oracle Server is an Object-relational Database Management System (ORDBMS) created by Oracle Corporation
+imagemagick	software suite 	ImageMagick is an open source software suite for displaying, converting and editing raster image files.
+angularjs-directive	way 	AngularJS directives are a way to teach HTML new tricks by extending the HTML vocabulary
+sql-server	database management system 	Microsoft SQL Server is a relational database management system (RDBMS)
+touch	 interfaces	Touch-based interfaces have unique considerations that do not apply to other modes of input, and vice versa.
+android-service	application component 	A Service is an application component representing either an application's desire to perform a longer-running operation while not interacting with the user or to supply functionality for other applications to use.
+openssl	software toolkit 	OpenSSL is an open source software toolkit that implements the SSL/TLS protocol, as well as a general cryptographic library.
+joomla	Content Management System 	Joomla! is a free and open source Content Management System (CMS) for publishing content on the World Wide Web and intranets and a model–view–controller (MVC) Web application framework that can also be used independently
+client	application 	A client is an application or system that accesses a service made available by a server.
+redux	state container 	Redux is a predictable state container for JavaScript applications based on the Flux design pattern.
+access-vba	programming language 	Access-VBA (Visual Basic for Applications for Microsoft Access) is an event-driven and object-oriented programming language for a variety of tasks, such as user-defined functions and dynamic forms in Microsoft Access.
+ms-access	database management system 	Microsoft Access, also known as Microsoft Office Access, is a database management system from Microsoft that commonly combines the relational Microsoft Jet/ACE Database Engine with a graphical user interface and software-development tools
+functional-programming	programming paradigm 	Functional programming is a programming paradigm based upon building abstractions using functions, avoiding side effects and change of state
+calendar	system 	A calendar is a system of reckoning time in which the beginning, length and divisions of a year are defined
+android-gradle	standard 	The Android Gradle Plugin is Android's standard build system
+webserver	software application 	A software application that services requests from clients using the Hypertext Transfer Protocol.
+class	template 	A template for creating new objects that describes the common state(s) and behavior(s)
+local-storage	way 	Local storage is a way to store persistent data using JavaScript (see also: Session storage).
+filesystems	way 	A file system is a way of organizing data on a computer system
+google-spreadsheet	Questions 	Questions related to Google Sheets and interacting with Google Sheets programmatically.
+linq-to-entities	questions 	This tag is for questions about LINQ to Entities, which means LINQ queries using the ADO.NET Entity Framework
+command-line	string 	A command line is a string given to a command interpreter that tells it actions to take, such as running programs or copying files
+slider	widget 	A graphical widget in a GUI with which a user may set a value by moving an indicator.
+crash	result 	A crash is the result of an unrecoverable error that causes the program to stop completely.
+pointers	Data type 	Data type that "points to" another value stored in memory using its address.
+jdbc	base API 	JDBC (Java DataBase Connectivity) is the base API which enables interacting with SQL database servers by executing SQL statements using the Java programming language.
+powershell	command line |scripting utility 	PowerShell is a command line and scripting utility for use with Windows
+apple-push-notifications	service 	The Apple Push Notification Service is a service created by Apple Inc
+utf	Transformation Format 	Unicode Transformation Format (8/16/32/...) used for encoding Unicode code points
+sql	language 	Structured Query Language (SQL) is a language for querying databases
+module	subdivision 	A logical subdivision of a larger, more complex system.
+plot	representation 	The graphical representation of a mathematical function or a set of data
+tinymce	JavaScript HTML WYSIWYG editor control 	TinyMCE is a web-based JavaScript HTML WYSIWYG editor control available as open source and a cloud-based API
+sas	4GL 	The SAS language is a 4GL that underpins the SAS system, a suite of products centered around data processing and statistical procedures
+android-activity	Questions 	Questions about creating or managing Activities in Android
+struct	keyword 	A keyword in the C family of languages for declaring a structured composite data type.
+ios	operating system 	iOS is the mobile operating system running on the Apple iPhone, iPod touch, and iPad
+radio-button	elements 	Radio buttons are elements used in forms
+pthreads	API 	Pthreads (POSIX Threads) is a standardised C-based API for creating and manipulating threads
+intellij-idea	IDE 	IntelliJ IDEA is an IDE by JetBrains
+spring-data-jpa	Spring Data umbrella project 	Spring Data - JPA is part of the Spring Data umbrella project which makes it easy to implement JPA based repositories
+go	programming language 	Go is an open source programming language initially developed at Google
+console	mechanism 	A mechanism for interacting with a computer operating system or software by typing commands to perform specific tasks
+opengl	graphics standard |API 	OpenGL (Open Graphics Library) is a graphics standard and API which is platform independent and available for desktop, workstation and mobile devices
+mongoose	MongoDB object modeling tool 	Mongoose is a MongoDB object modeling tool, or ODM (Object Document Mapper), written in JavaScript and designed to work in an asynchronous environment.
+json	data interchange format 	JSON (JavaScript Object Notation) is a textual data interchange format and language-independent
+variables	 THIS	THIS IS AMBIGUOUS; USE SPECIFIC-LANGUAGE TAGS WHENEVER APPLICABLE
+localhost	hostname 	In computer networking, localhost (meaning this computer) is the standard hostname given to the address of the loopback network interface.
+constraints	condition 	A constraint is a condition that has to be fulfilled in a given context
+database-connection	facility 	A database connection is a facility that allows client software to communicate with database server software, whether on the same machine or not
+configuration	process 	Configuration is the process of specifying the settings used for a system or application
+solr	search server 	Apache Solr is an open source search server based on the Lucene Java search library.
+Tags found in svo_exception:
+signalr	ASP.NET SignalR is a library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
+imageview	Android widget that displays an arbitrary image or drawable, such as an icon.
+connection	Refers to a connection used to transfer data between two endpoints, such as between a client and a web, database, web service or other server.
+nested	This tag relates to any of various nested entities or operations in programming.
+annotations	In programming, annotations are used to add information to a code element which cannot be expressed by the type system.
+modal-dialog	Refers to a graphical dialog used to display important information to the user
+textview	Android widget that displays text to the user and optionally allows them to edit it
+asp-classic	Active Server Pages (ASP), also known as Classic ASP or ASP Classic, was Microsoft's first server-side script-engine for dynamically-generated web pages
+firefox-addon	A Firefox add-on is a way of adding to or modifying the Firefox web browser
+spring-boot	Spring Boot makes it easy to create Spring-powered, production-grade applications and services with absolute minimum fuss
+maven	Apache Maven is a build automation and project management tool used primarily for Java projects
+height	The property which determines the size of an object on the Y-axis
+tcl	Tool Command Language was invented by John Ousterhout as a way to make it easy to write little languages for configuring EDA tools, but it has grown far beyond those humble beginnings to become a general scripting language with built-in asynchronous I/O and Unicode strings while supporting paradigms such as object-oriented programming and coroutines.
+asp.net-identity	The ASP.NET Identity system is designed to replace the previous ASP.NET Membership and Simple Membership systems.
+uilabel	The UILabel class implements a read-only text view in iOS
+angularjs-ng-repeat	The `ngRepeat` directive instantiates a template once per item from a collection
+replace	Replacing is the action of searching a string for a sub-string and replacing it with a different string.
+datatables	DataTables is a plug-in for the jQuery JavaScript library
+filter	A program or routine that blocks access to data that meet a particular criterion
+multithreading	Multi-threading is the ability of a computer or a program to perform work concurrently or asynchronously by utilizing multiple concurrent streams of execution (generally referred to as threads).
+statistics	Consider whether your question would be better at http://stats.stackexchange.com
+compiler-construction	The tag compiler-construction should be applied to questions concerning the programming of compilers or for questions about the detailed inner workings of compilers
+android-viewpager	A ViewGroup that manages the layout for the child views the user can swipe between.
+Tags not found in both files are: 

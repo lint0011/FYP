@@ -1,0 +1,29 @@
+tagCategory_test_result_v3r1.txt:
+-	10	@jquery-selectors	elements:selectors	Selectors can be used in jQuery to match a set of elements in a document		svo_e	2004		tag_cate	21855	elements
+	15	@media-queries	features:queries	Media queries enable the conditional application of CSS styles based on media types, such as screen and print, and the conditions of media features, such as viewport and device height and width		svo	9252	 Media queries		tag_cate	8090	features
+-	39	@android-gradle	standard:system	The Android Gradle Plugin is Android's standard build system		svo	15382	standard 		tag_cate	13494	standard 
+-	46	@google-visualization	application:api	the google visualization api allows svg, flash, and image charts and dashboards to be created based on data from a variety of sources. the charts/dashboards can be interactive, updated automatically, and included on web pages and web applications.		svo_e	1251		tagcate_e	519	data 
+-	75	@google-cloud-datastore	applications:database	Google Cloud Datastore is a scalable, fully-managed NoSQL document database for web and mobile applications		svo	14752	scalable 		tag_cate	12937	applications
+-	80	@firebase-database	apps:database	Firebase Realtime Database is a cloud hosted, NoSQL, JSON database that enables developers to create powerful apps		svo	19930	cloud 		tag_cate	17530	apps
+tagCategory_test_result_v3r2.txt:
+-	5	@cocoa-touch	apps:framework	The Cocoa Touch Frameworks that drive iOS apps share many proven patterns found on the Mac, but were built with a special focus on touch-based interfaces and optimization.		svo	507	 iOS apps		tag_cate	438	 iOS apps
+-	9	@binary	numbers:system	Binary, the base-2 numeral system, represents numbers using two symbols: 0 and 1		svo_e	52		tag_cate	20543	numbers
+	33	@google-api	products:api	google offers a variety of apis, mostly web apis for web developers. the apis are based on popular google consumer products, including google maps, google earth, adsense, adwords, google apps and youtube.		svo	2205	 Google
+	37	@websphere	product:server	IBM WebSphere Application Server, a software application server, is the flagship product within IBM's WebSphere brand		svo	263	flagship product 		tag_cate	224	flagship product 
+	56	@many-to-many	types:relationship	A type of relationship between entities of types A and B which associates a list of entities of type B to an entity of type A and vice versa		svo	825	relationship 		tag_cate	716	types
+-	65	@pyspark	model:api	The Spark Python API (PySpark) exposes the apache-spark programming model to Python.		svo_e	8916		tag_cate	26585	model
+-	73	@sinatra	applications:language	Sinatra is a Domain Specific Language (DSL) for quickly creating web applications in Ruby with minimal effort		svo	4576	Domain 		tag_cate	3994	applications
+tagCategory_test_result_v3r3.txt:
+-	4	@asp.net-core-mvc	apps:mvc	this version of mvc (formerly known as asp.net mvc 6 or just mvc 6) has been re-designed from the ground up. the asp.net core mvc framework unifies mvc, web api, and web pages. using asp.net core the goal is to create a lean and composable .net stack for building modern cloud-based apps.		svo_e	8259		tagcate_e	5578	This version of MVC (formerly known as ASP.NET MVC 6 or just MVC 6) has been re-designed from the ground up
+	10	@floating-point	point:number	Floating point numbers are approximations of real numbers that can represent larger ranges than integers but use the same amount of memory, at the cost of lower precision		svo	105	approximations 		tag_cate	92	point
+-	28	@maven	project:tool	Apache Maven is a build automation and project management tool used primarily for Java projects		svo_e	3391		tag_cate	22782	project
+	40	@android-asynctask	framework:class	asynctask enables proper and easy use of the ui thread. this class allows to perform background operations and publish results on the ui thread without having to manipulate threads and/or handlers. asynctask is designed to be a helper class around thread and handler and does not constitute a generic threading framework.  asynctasks should ideally be used for short operations (a few seconds at the most.)		svo	9961	use 
+-	72	@ejb	applications:architecture	Enterprise JavaBeans (EJB) is a managed, server-side component architecture for modular construction of enterprise applications		svo	966	managed 		tag_cate	845	applications
+-	82	@google-maps-api-3	functionality:api	Google Maps JavaScript API Version 3 lets you embed the functionality of Google Maps into your own website		svo_e	3291		tag_cate	22717	functionality
+-	87	@nginx	engine:server	Nginx ("engine x") is a lightweight, high-performance HTTP server, reverse proxy, TCP stream proxy and mail proxy, released under a BSD-like license.		svo	1972	lightweight 		tag_cate	1716	engine
+
+
+20 wrong match out of 300 sample, accuracy rate: 93.3%
+Within the 20 wrong match, 14 of them originate from extractSVO function(70%)
+FORMAT:
+-(if the problem starts from svo function)	line-number-in-file	@tag-name	wrong-category(the resulted one):right category	tagwiki-of-tag	svo/svo_e line-number-in-file	category-after-svo	tag_cate	line-number-in-file	category-after-tag_vate

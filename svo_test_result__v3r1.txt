@@ -1,0 +1,106 @@
+Number of svo : 74, number of svo_excepton : 26, number of exceptions : 0
+Ratio of svo among all: 0.74
+Ratio of svo_exception among all: 0.26
+Tags found in svo:
+oop	programming paradigm 	Object-oriented programming is a programming paradigm using "objects": data structures consisting of data fields and methods together with their interactions.
+rspec	development framework 	RSpec is a behavior-driven development (BDD) framework for the Ruby programming language, inspired by JBehave
+wordpress	content management system 	WordPress is an open source content management system running on PHP and MySQL (or MariaDB), and often used as a blog engine
+schema	 Schema	Schema means shape, or more generally, plan
+linq-to-entities	questions 	This tag is for questions about LINQ to Entities, which means LINQ queries using the ADO.NET Entity Framework
+oracle10g	RDBMS product 	Oracle is an RDBMS product
+recursion	function call 	Recursion is a kind of function call in which a function calls itself
+iis	web server 	Internet Information Services (IIS) is a web server created by Microsoft for use with Microsoft Windows
+charts	representation 	Charts are a graphical representation of data, most often in the format of a graph or diagram
+jquery-ui	user interface interactions effects widgets |themes 	jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
+data-structures	way 	A data structure is a way of organizing data in a fashion that allows particular properties of that data to be queried and/or updated efficiently.
+comments	programming language construct 	A comment is a programming language construct used to embed non-compiled, programmer-readable annotations in the source code of a computer program.
+github	service 	GitHub is a web-based hosting service for software development projects that use Git for version control
+validation	process 	Data validation is the process of ensuring that a program operates on clean, correct and useful data.
+position	 Position	Position refers to the location of an element relative to its container, typically on the horizontal and vertical axes.
+web-scraping	process 	The process of extracting specific information from websites
+@cmd	Microsoft 	Command Prompt (executable name cmd.exe) is the Microsoft supplied command line interpreter on OS/2, Windows CE, and all Windows operating systems (including Windows NT, Windows 2000, Windows XP, Vista, 7, 8, 10, Windows Server 2003, Server 2008, Server 2012, and Server 2016).
+network-programming	Programming 	Programming associated with creating and managing networks as well as adding network connectivity to a (set of) programs.
+compression	name 	The name given to the process of encoding data such that it uses lesser number of bits as compared to the original representation.
+python-requests	Python HTTP library 	Requests is a full-featured Python HTTP library with an easy-to-use, logical API.
+youtube	website 	YouTube is a video-sharing website on which users can upload, share, and view videos.
+weblogic	Java EE application server 	WebLogic Server is a Java EE application server from Oracle
+deep-learning	area 	Deep Learning is an area of Machine Learning whose goal is to learn complicated functions that represent "deep architectures."
+svn	revision control system 	Subversion is a centralized open-source revision control system
+google-chrome-extension	Extension development 	Extension development for the Google Chrome web browser
+css-selectors	patterns 	Selectors are patterns that match against elements in a document tree
+db2	database servers 	DB2 is a family of database servers developed by IBM
+uiview	class 	UIView is a class in the UIKit framework of iOS defines a rectangular area on the screen and the interfaces for managing the content in that area
+parameter-passing	process 	parameter-passing is the process of assigning values to the parameters of a function
+excel-vba	programming language 	Excel-VBA (Visual Basic for Applications for Microsoft Excel) is the dominant programming language for Microsoft Office Excel
+ember.js	MVC application framework 	Ember.js is an MVC application framework written in JavaScript
+directory	container 	A directory or folder is a virtual container within a digital file system, in which groups of computer files and other directories can be kept and organized.
+c++	programming language 	C++ is a general-purpose programming language
+routes	Questions 	Questions about mapping URLs to Controllers and Actions.
+matlab	language |programming environment 	MATLAB is a high-level language and interactive programming environment for numerical computation and visualization developed by MathWorks
+gmail	email service 	Gmail is a free email service offered by Google
+try-catch	construct 	try-catch is a syntactic construct for catching exceptions raised by a code section
+android-service	application component 	A Service is an application component representing either an application's desire to perform a longer-running operation while not interacting with the user or to supply functionality for other applications to use.
+hyperlink	reference 	A hyperlink is a reference to a document (or a section) that can be followed for retrieval using a navigation system that allows selecting emphasized content within an originating document.
+vbscript	scripting language 	VBScript (Visual Basic Scripting Edition) is an interpreted scripting language developed by Microsoft that is modeled on Visual Basic
+radio-button	elements 	Radio buttons are elements used in forms
+@sinatra	Domain 	Sinatra is a Domain Specific Language (DSL) for quickly creating web applications in Ruby with minimal effort
+android	operating system 	Android is Google's mobile operating system, used for programming or developing digital devices (Smartphones, Tablets, Automobiles, TVs, Wear, Glass, IoT)
+range	extent 	A range is an extent of values between its lower and upper bound
+tinymce	JavaScript HTML WYSIWYG editor control 	TinyMCE is a web-based JavaScript HTML WYSIWYG editor control available as open source and a cloud-based API
+encryption	process 	Encryption is the process of transforming information (called plaintext) into an unreadable form (called ciphertext) using an encryption algorithm combined with a parameter (called an encryption key)
+cookies	data 	An HTTP cookie is a piece of data stored by the user's web browser
+kernel	computer program 	In computing, the kernel is a computer program that manages input/output requests from software, and translates them into data processing instructions for the central processing unit and other electronic components of a computer
+sprite-kit	framework 	SpriteKit is Apple's framework for creating 2D games for iOS 7+ and Mac OS X 10.9+
+angularjs-scope	object 	In AngularJS, a scope is an object that refers to the application model
+pip	replacement 	pip is a replacement for easy_install, intended to be an improved Python package installer.
+g++	C++ frontend 	g++ is the C++ frontend to the GNU Compiler Collection (gcc).
+openssl	software toolkit 	OpenSSL is an open source software toolkit that implements the SSL/TLS protocol, as well as a general cryptographic library.
+admob	advertising company 	AdMob is a mobile advertising company owned by Google
+sass	extension 	Sass (Syntactically Awesome Style Sheets) is an extension of CSS adding features like nested rules, variables, mixins and class extensions
+uitextfield	control 	A UITextField object is a control that displays editable text and sends an action message to a target object when the user presses the return button
+layout	questions 	The layout tag is for questions about the placement, alignment and justification of objects with respect to a containing element
+oauth	specification 	OAuth (Open Authorization) is a specification for client applications to access protected resources on behalf of a user
+redirect	response 	A response by a webserver, that asks the user agent to not show the response body, but instead request a different resource.
+session	 client	A session refers to all the requests that a single client makes to a server
+@plsql	Oracle Corporation's 	PL/SQL (Procedural Language/Structured Query Language) is Oracle Corporation's procedural language extension for SQL
+sencha-touch	device JavaScript library 	Sencha Touch is a multi mobile device JavaScript library based on HTML5 and the Model, View, Controller pattern
+xamarin.android	implementation 	Xamarin.Android (previously known as Mono for Android) is an implementation of Mono that runs on the Android platform, allowing you to write Android applications in C# using native Android libraries as well as using the .NET BCL (Base Class Libraries).
+integer	number 	An integer is a whole number that can be negative, positive, or zero
+media-queries	 Media queries	Media queries enable the conditional application of CSS styles based on media types, such as screen and print, and the conditions of media features, such as viewport and device height and width
+meteor	platform 	Meteor is a modular platform for developing web and mobile applications in JavaScript based on the NodeJS platform.
+database-connection	facility 	A database connection is a facility that allows client software to communicate with database server software, whether on the same machine or not
+load	measure 	A measure of the amount of work a computer is performing
+bitmap	 term pixmap	The more general term pixmap refers to a map of pixels, where each one may store more than two colors, thus using more than one bit per pixel
+documentation	information 	Documentation is information on aspects of software or hardware, including its intended purpose, functionality, and maintenance
+relational-database	database 	A relational database is a database consisting of relation variables (which are also called *relvars*, *R-tables* or just *tables*)
+design	act 	Design in programming is the act of making particular choices about how best to structure a program, to achieve goals of reliability, maintainability, correctness or ease of use.
+@angular	Questions 	Questions about Angular 2+, the web framework from Google
+core-data	object modeling |persistence framework 	Core Data is Apple's object modeling and persistence framework for macOS and iOS
+Tags found in svo_exception:
+sum	The 'sum' function which returns the sum of the items in an array.
+gson	Gson is Google's open-source library for serializing and deserializing Java objects to/from JSON.
+static	Static is a term used in some programming languages to define a function or data storage area (field) that is not bound to any specific object instance.
+php	PHP is a widely used, high-level, dynamic, object-oriented and interpreted scripting language primarily designed for server-side web development.
+paypal	For questions about the PayPal API used by software developers to process payments, manage invoices, monitor accounts, etc
+onclick	An event which occurs when user clicked an object
+report	A report contains summarized information from a data source, usually in an end-user-friendly format, such as PDF or Excel, although proprietary reporting tools (usually with built-in design tools) also exist.
+char	char typically refers to a character data-type, representing letters of text.
+height	The property which determines the size of an object on the Y-axis
+email	Email is a method of exchanging digital messages from a sender to one or more recipients
+tomcat	Use this tag for questions about Apache Tomcat (or simply Tomcat, formerly also Jakarta Tomcat) which is an open source Servlet Container developed by the Apache Software Foundation (ASF)
+ecmascript-6	The 2015 version of the ECMAScript specification, now a standard (ECMAScript 2015)
+uiimageview	An image view object provides a view-based container for displaying either a single image or for animating a series of images in iOS
+alignment	In GUI (inc
+encoding	Encoding is a set of predefined rules to reversibly transform a piece of information in a certain representation into a completely different representation
+jni	The Java Native Interface (JNI) gives both the ability for JVM implementations to run system native code, and the ability for native code to run Java code (by creating new JVM instances)
+save	To store (data) in a computer or on a storage device.
+replace	Replacing is the action of searching a string for a sub-string and replacing it with a different string.
+javafx	The JavaFX platform enables developers to create and deploy Rich Internet Applications (RIA) that behave consistently across multiple platforms and browsers
+sorting	Sorting is the process of applying some order to a collection of items.
+multidimensional-array	&#xD;&#xA;Multidimensional-arrays can be described as multi-dimensional tables
+makefile	A makefile is usually an input file for the build control language/tool make
+jquery-plugins	Custom add-ons and plugins for the jQuery library
+width	The property which determines the size of an object on the X-axis
+list	list may refer to: a linked list (an ordered set of nodes, each referencing its successor), or a form of dynamic array
+arm	This tag is used for questions related to the ARM (Advanced RISC Machine) family of computers; that is machines or electronics running on ARM processor cores or systems using an ARM core.
+Tags not found in both files are: 
